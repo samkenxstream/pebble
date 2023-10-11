@@ -8,9 +8,9 @@ require (
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/kr/text v0.2.0 // indirect
 	github.com/pkg/term v1.1.0
-	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	golang.org/x/net v0.0.0-20210119194325-5f4716e94777 // indirect
-	golang.org/x/sys v0.0.0-20210119212857-b64e53b001e4
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/sys v0.13.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637
 	gopkg.in/yaml.v2 v2.4.0
